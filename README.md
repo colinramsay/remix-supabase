@@ -1,8 +1,15 @@
 # Welcome!
 
-- [Remix Docs](https://remix.run/docs)
-- [Supabase Docs](https://supabase.com/docs)
-- [Supabase auth strategy](https://github.com/mitchelvanbever/remix-auth-supabase-strategy)
+-   [Remix Docs](https://remix.run/docs)
+-   [Supabase Docs](https://supabase.com/docs)
+-   [Supabase auth strategy](https://github.com/mitchelvanbever/remix-auth-supabase-strategy)
+
+## Setup
+
+Set environment variables:
+
+-   SUPABASE_ANON_KEY
+-   SUPABASE_API_URL
 
 ## Development
 
@@ -36,8 +43,8 @@ If you're familiar with deploying node applications, the built-in Remix app serv
 
 Make sure to deploy the output of `remix build`
 
-- `build/`
-- `public/build/`
+-   `build/`
+-   `public/build/`
 
 ### Using a Template
 

@@ -10,7 +10,7 @@ invariant(
 )
 invariant(
     typeof MAYBE_SUPABASE_ANON_KEY === 'string',
-    'MAYBE_SUPABASE_ANON_KEY required'
+    'SUPABASE_ANON_KEY required'
 )
 
 const SUPABASE_API_URL = MAYBE_SUPABASE_API_URL as string
